@@ -10,3 +10,7 @@ This is a <sub>subscript</sub>
    - First nested list
       - Second nested list
 >Welcome to class
+This is a list
+1. A
+2. B
+3. C
